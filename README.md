@@ -1,4 +1,4 @@
-# flashcard-o-matic
+# Flashcard-o-matic V2
 The Thinkful Flashcard App, but more!
 
 This application allows users to study given decks and create their own decks for study. The application also allows users to create their own cards and also edit or delete any others.
