@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/dakotalavallee/">
-<img src="https://imgur.com/HZVuSar" alt="DKL logo" title="DKL" align="right" height="60" />
-</a>
+![Logo](https://i.imgur.com/HZVuSar.png)
 
 # Flashcard-o-matic V2
 The Thinkful Flashcard App, but more!
@@ -11,27 +9,27 @@ This was built using Bootstrap, React.js, Javscript, HTML5, and CSS3
 
 Views of different functions can be seen below:
 
-# Study Views
+# List Views
 
-![Imgur](https://i.imgur.com/HypSj8S.png)
+![List View Light](https://i.imgur.com/jiL28v1.png)
 
-<img src="https://imgur.com/sUp3eQL" alt="List View Dark" />
+![List View Dark](https://i.imgur.com/sUp3eQL.png)
 
 # Deck Views
 
-<img src="https://imgur.com/K9Z2ccs" alt="Create Deck View" />
+![Create Deck](https://i.imgur.com/K9Z2ccs.png)
 
-<img src="https://imgur.com/V945UcT" alt="Edit Deck View" />
+![Edit Deck](https://i.imgur.com/V945UcT.png)
 
-<img src="https://imgur.com/dUD1keE" alt="Single Deck View" />
+![Single Deck](https://i.imgur.com/dUD1keE.png)
 
 # Card Views
 
-<img src="https://imgur.com/QnEg5W2" alt="Study Card View" />
+![Add Card](https://i.imgur.com/PD2rHsG.png)
 
-<img src="https://imgur.com/PD2rHsG" alt="Add Card View" />
+![Edit Card](https://i.imgur.com/HypSj8S.png)
 
-<img src="https://imgur.com/HypSj8S" alt="Edit Card View" />
+![Study Card](https://i.imgur.com/QnEg5W2.png)
 
 Revisions:
 -Users can now toggle a "Dark Mode" switch for their page.
