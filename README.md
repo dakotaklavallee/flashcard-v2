@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/HZVuSar.png)
+![Logo](https://i.imgur.com/LZQk8KP.png)
 
 # Flashcard-o-matic V2
 The Thinkful Flashcard App, but more!
