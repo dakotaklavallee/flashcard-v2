@@ -13,7 +13,7 @@ Views of different functions can be seen below:
 
 # Study Views
 
-<img src="https://imgur.com/jiL28v1" alt="List View Light" />
+![Imgur](https://i.imgur.com/HypSj8S.png)
 
 <img src="https://imgur.com/sUp3eQL" alt="List View Dark" />
 
