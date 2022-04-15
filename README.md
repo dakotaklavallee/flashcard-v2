@@ -1,4 +1,6 @@
+<a href="https://www.linkedin.com/in/dakotalavallee/">
 <img src="https://imgur.com/HZVuSar" alt="DKL logo" title="DKL" align="right" height="60" />
+</a>
 # Flashcard-o-matic V2
 The Thinkful Flashcard App, but more!
 
