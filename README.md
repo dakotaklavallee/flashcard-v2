@@ -5,8 +5,9 @@ The Thinkful Flashcard App, but more!
 
 This application allows users to study given decks and create their own decks for study. The application also allows users to create their own cards and also edit or delete any others.
 
-This was built using Bootstrap, React.js, Javscript, HTML5, and CSS3
-Working demo deployed with vercel here:
+This was built using Bootstrap, React.js, Javscript, HTML5, and CSS3.
+
+A working demo, deployed with vercel, can be tried here:
 
 <a href="https://flashcard-o-matic-jet.vercel.app/">Try Me</a>
 
