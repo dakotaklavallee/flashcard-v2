@@ -7,7 +7,7 @@ This application allows users to study given decks and create their own decks fo
 
 This was built using Bootstrap, React.js, Javscript, HTML5, and CSS3.
 
-A working demo, deployed with vercel, can be tried here:
+A working demo, deployed with Vercel, can be tried here:
 
 <a href="https://flashcard-o-matic-jet.vercel.app/">Try Me</a>
 
